@@ -1,0 +1,10 @@
+.EmployeeList {
+    display: flex;
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    overflow: auto;
+    flex: 2;
+    flex-direction: column;
+    align-content: flex-start;
+}

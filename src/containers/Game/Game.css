@@ -1,0 +1,7 @@
+.Game {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    background-color: #e0fee1;
+}
